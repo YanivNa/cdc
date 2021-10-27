@@ -1,0 +1,1 @@
+{ "pk": "123456", "data": { "a": "foo", "b": "bar", "c": 123 }, "beforeData": null, "headers": { "operation": "DELETE", "timestamp": "2021-01-27T13:42:13.383", "streamPosition": "123154689132138433181312132194984313218" } }
